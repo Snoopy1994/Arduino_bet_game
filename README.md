@@ -2,11 +2,12 @@
 Simple bet game by Arduino
 
 **This is a simple game that you can bet which is the lucky fruit.**
-* There are 5 fruits: Apple, Banana, Cherry, Orange, Lemon(represent 0 to 4 on the seven segment display)
-* In the begining, you have 5 chips. You can bet what ever you want with these five chips by keyboard.
-* After enter numbers, it started to random pick the lucky fruit(number). 
-* The result will show both on screen and seven segment display. 
-* If you win, your chip will add 3 times.
+
+- There are 5 fruits: Apple, Banana, Cherry, Orange, Lemon(represent 0 to 4 on the seven segment display)
+- In the begining, you have 5 chips. You can bet what ever you want with these five chips by keyboard.
+- After enter numbers, it started to random pick the lucky fruit(number). 
+- The result will show both on screen and seven segment display. 
+- If you win, your chip will add 3 times.
 
 **Bet**
 
