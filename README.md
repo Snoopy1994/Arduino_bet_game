@@ -20,18 +20,18 @@ Simple bet game by Arduino
 ![bet](https://github.com/Snoopy1994/Arduino_bet_game/blob/main/bet.png)
 
 **Win**
-I bet each fruit for one chip. 
-5 Chips -> 0 Chips
+- I bet each fruit for one chip. 
+- 5 Chips -> 0 Chips
 ![win](https://github.com/Snoopy1994/Arduino_bet_game/blob/main/win.png)
-The lucky fruit is Banana(number:1).
-0 Chips -> 3 Chips
-My chips add 3. 
+- The lucky fruit is Banana(number:1).
+- 0 Chips -> 3 Chips
+- My chips add 3. 
 
 **Lose**
-I bet Apple for one chip. 
-3 Chips - 1 Chip -> 2 Chips
+- I bet Apple for one chip. 
+- 3 Chips - 1 Chip -> 2 Chips
 ![lose](https://github.com/Snoopy1994/Arduino_bet_game/blob/main/lose.png)
-The lucky fruit is Cherry(number:2).
-Total fund: 2 Chips
+- The lucky fruit is Cherry(number:2).
+- Total fund: 2 Chips
 
 (Continue until Chip = 0)
