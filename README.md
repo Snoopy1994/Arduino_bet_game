@@ -24,7 +24,7 @@ My chips add 3.
 **Lose**
 I bet Apple for one chip. 
 3 Chips - 1 Chip -> 2 Chips
-1[lose](https://github.com/Snoopy1994/Arduino_bet_game/blob/main/lose.png)
+![lose](https://github.com/Snoopy1994/Arduino_bet_game/blob/main/lose.png)
 The lucky fruit is Cherry(number:2).
 Total fund: 2 Chips
 
