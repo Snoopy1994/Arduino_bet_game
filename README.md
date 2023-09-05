@@ -16,7 +16,7 @@ Simple bet game by Arduino
 - If you win, your chip will add the chips you bet multiplied 3 times.
 
 **Bet**
-
+- The initial fund is 5. 
 ![bet](https://github.com/Snoopy1994/Arduino_bet_game/blob/main/bet.png)
 
 **Win**
