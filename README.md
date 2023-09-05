@@ -12,8 +12,8 @@ Simple bet game by Arduino
     
 - In the begining, you have 5 chips. You can bet what ever you want with these five chips by keyboard.
 - After enter numbers, it started to random pick the lucky fruit(number). 
-- The result will show both on screen and seven segment display. 
-- If you win, your chip will add 3 times.
+- The result will show both on screen, seven segment display, and bulb. 
+- If you win, your chip will add the chips you bet multiplied 3 times.
 
 **Bet**
 
